@@ -5,7 +5,7 @@
 
 # Stack used
 
-<img src="https://skillicons.dev/icons?i=javascript,react,css,html,webpack,babel,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,react,css,html,webpack,babel,git&theme=dark" />
 
 ### Outras ferramentas:
 
