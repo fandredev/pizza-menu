@@ -16,7 +16,9 @@ function App() {
   );
 }
 
-const rootElement = ReactDOM.createRoot(document.getElementById('root'));
+const rootElement = ReactDOM.createRoot(
+  document.getElementById('root') as Element
+);
 
 rootElement.render(
   <React.StrictMode>
