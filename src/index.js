@@ -112,9 +112,7 @@ function Footer() {
       <div className="order">
         <p>
           {isOpen ? (
-            <p>
-              `We're open until ${closeHour}:00. Come visit us order online`
-            </p>
+            <Order closeHour={closeHour} />
           ) : (
             <p>
               `We're closed. We open at ${openHour}:00. Come visit us order
@@ -128,6 +126,10 @@ function Footer() {
     </footer>
   );
   // return React.createElement('footer', null, "We're open currently open");
+}
+
+function Order({ closeHour }) {
+  return <p>We're open until {closeHour}:00. Come visit us order online</p>;
 }
 
 const rootElement = ReactDOM.createRoot(document.getElementById('root'));
