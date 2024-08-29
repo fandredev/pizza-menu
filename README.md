@@ -1,3 +1,8 @@
+
+# Pizza Menu
+![image](https://github.com/user-attachments/assets/a17ff9f9-be63-4cde-af47-e560bd9b7c4d)
+
+
 # Stack used
 
 <img src="https://skillicons.dev/icons?i=javascript,react,css,html,webpack,babel,git&theme=dark" />
