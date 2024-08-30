@@ -32,7 +32,7 @@ git clone git@github.com:fandredev/pizza-menu.git
 ## Install dependencies
 
 ```
- npm install
+ npm install -f
 ```
 
 ## Run server
